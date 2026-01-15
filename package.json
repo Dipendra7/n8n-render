@@ -1,0 +1,11 @@
+{
+  "name": "n8n-render-blotato",
+  "version": "1.0.0",
+  "description": "n8n with Blotato custom node for Render",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  }
+}
